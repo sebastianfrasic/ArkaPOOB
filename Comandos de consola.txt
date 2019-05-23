@@ -1,0 +1,20 @@
+PROYECTO:
+Compilar:
+javac -d bin src\aplicacion\*.java src\presentacion\*.java
+
+
+
+Ejecutar:
+java -cp bin presentacion.ArkaPOOBGUI
+
+
+
+PRUEBAS:
+Compilar:
+javac -d bin -cp junit4.jar src\aplicacion\*.java src\pruebas\*.java
+
+
+Ejecutar:
+java -cp junit4.jar;bin org.junit.runner.JUnitCore pruebas.ArkaPOOBTestNiveles
+java -cp junit4.jar;bin org.junit.runner.JUnitCore pruebas.ArkaPOOBTestBloques
+java -cp junit4.jar;bin org.junit.runner.JUnitCore pruebas.ArkaPOOBTestPlataformas
