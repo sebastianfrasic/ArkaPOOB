@@ -1,6 +1,6 @@
 # ArkaPOOB
 
-(Review)[https://app.codacy.com/project/sebastianfrasic/ArkaPOOB/dashboard?bid=13035003]!
+(Review)[https://app.codacy.com/project/sebastianfrasic/ArkaPOOB/dashboard?bid=13035003]
 
 En el archivo PDF están los requisitos de la aplicación.
 
